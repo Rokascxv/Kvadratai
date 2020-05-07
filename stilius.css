@@ -1,0 +1,36 @@
+html{
+    background: #ff8c66;
+}
+div {
+height: 200px;
+width: 200px;
+background: #99e600;
+border: double #8cff66;
+margin: 0 auto;
+}
+
+p {
+width: 60%;
+margin: 0 auto;
+font-family: Helvetica;
+font-size: 14px;
+text-align: center;
+}
+#kvadratas{
+height: 200px;
+width: 200px;
+background: #66b3ff;
+border: solid #6666ff;
+margin: 0 auto;
+}
+h2{
+    text-align: center;
+    font-family: Courier New;
+}
+#kvadratasa{
+height: 200px;
+width: 200px;
+background: #d966ff;
+border: groove #ff66b3;
+margin: 0 auto; 
+}
